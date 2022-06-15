@@ -1,0 +1,20 @@
+.bg{
+    height: 1300px;    
+}
+
+html{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background-image: url("https://fdr.com.br/wp-content/uploads/2021/11/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette_1258-48251.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+    width: 100%;
+    height: 100%;
+}
+
+.text-center{
+    color: #29dee4;
+}
